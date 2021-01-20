@@ -9,6 +9,9 @@ Using a chrome extension called "Custom Javascript for websites" (https://chrome
 , the script could be injected onto google.com .
 
 
+Steps to run test :
+1. Open the testPlayer.html in a browser.
+2. The page should be a list of different test cases.
 
 
 
