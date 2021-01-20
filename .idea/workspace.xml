@@ -10,9 +10,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="package.json" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611069648965</updated>
-      <workItem from="1611069650137" duration="16309000" />
+      <workItem from="1611069650137" duration="18329000" />
     </task>
     <servers />
   </component>
@@ -75,5 +75,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="398" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611157978336" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1611161297382">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1611161297382" />
   </component>
 </project>
